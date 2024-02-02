@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CITY_NAME">
+        <item>Tokyo</item>
+        <item>Osaka</item>
+        <item>Kyoto</item>
+        <item>Hiroshima</item>
+        <item>Fukuoka</item>
+        <item>Hokkaido</item>
+        <item>Okinawa</item>
+        <item>Aomori</item>
+        <item>Nagano</item>
+        <item>Tottori</item>
+        <item>Nagoya</item>
+    </string-array>
+
+</resources>
